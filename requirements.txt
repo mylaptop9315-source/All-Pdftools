@@ -1,7 +1,7 @@
 python-telegram-bot==21.5
 Pillow==10.4.0
 reportlab==4.2.2
-pdf2docx==1.0.1
+pdf2docx==0.5.8
 openpyxl==3.1.2
 weasyprint==60.1
 requests==2.31.0
