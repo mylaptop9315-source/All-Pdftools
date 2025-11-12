@@ -1,0 +1,11 @@
+python-telegram-bot==20.7
+Pillow
+reportlab
+pdf2docx
+openpyxl
+weasyprint
+requests
+qrcode[pil]
+gtts
+PyPDF2
+httpx
